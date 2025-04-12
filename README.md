@@ -1,4 +1,4 @@
-## 🚀 Air Conditioning Cooling System Using Arduino
+## ❄️ Air Conditioning Cooling System Using Arduino
 
 ## 📝 Project Overview
 The systemcontinuously monitors ambient temperature and activates the fanwhen a set threshold (e.g. 25°C) is exceeded. The project demonstrates skills in sensor integration, real-time data monitoring, and basic automation. Optional extensions included remote control via IR or mobile app.
